@@ -1,4 +1,4 @@
-FROM alpine: latest
+FROM alpine:latest
 
 RUN apk add bash
 WORKDIR /work
